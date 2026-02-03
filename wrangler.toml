@@ -17,7 +17,7 @@ database_id = "45b04182-547e-4e69-a04a-f76f5b704a9b"      # 这是 D1 数据库 
 # 设置域名
 # 注意：这里的 VITE_EMAIL_DOMAIN 将由 GitHub Action 动态替换
 [vars]
-VITE_EMAIL_DOMAIN = "${VITE_EMAIL_DOMAIN}"   # 这是邮箱域名的占位符
+VITE_EMAIL_DOMAIN = "o0o0.indevs.in,s1ze.ggff.net,s1zy.cc.cd,s1zy.ccwu.cc,s1zy.ggff.net,s1zy.us.ci,zeyu.indevs.in"   # 这是邮箱域名的占位符
 
 # 配置邮件处理
 [triggers]
